@@ -1,0 +1,9 @@
+{
+  "name": "vscode-pnpm-global-virtual-store",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@12.6.0",
+  "dependencies": {
+    "is-number": "^7.0.0"
+  }
+}

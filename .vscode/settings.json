@@ -1,0 +1,6 @@
+{
+  "github.copilot.chat.additionalReadAccessPaths": [
+    "~/Library/pnpm/store/",
+    "/Users/mak13180/Library/pnpm/store/"
+  ]
+}
